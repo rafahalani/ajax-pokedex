@@ -2,7 +2,7 @@
 Pokemon game
 
 
-https://anastasiyavyp.github.io/ajax-pokedex/
+click to play : https://anastasiyavyp.github.io/ajax-pokedex/
 
 # AJAX Pokédex
 
